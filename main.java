@@ -4,6 +4,9 @@ public class Main {
 
         System.out.println("Hello world!");
 
+        System.out.println("222Hello world!222");
+
+
     }
 
 }
